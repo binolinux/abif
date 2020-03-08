@@ -23,7 +23,7 @@
 ISO_HOST="archlinux"                           		# ISO Host Name
 
 # This MUST be the same as the live account
-ISO_USER="liveuser"           						# Live user account.
+ISO_USER="live"           						# Live user account.
 
 # Call this what you like
 VERSION="Arch Linux Installer"		# Installer Name / Version
